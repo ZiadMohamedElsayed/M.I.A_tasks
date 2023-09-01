@@ -7,13 +7,13 @@ This repository contains a collection of tasks that I have successfully complete
 For my first task, I tackled four problems using the C programming language. Below are the details of each problem:
 ### Problem 1: Hello Gru
 - **Description:** A classic introductory program that prints "Hello GRU" to the console.
-- **Solution:** [feature-branch]([Task_1-branch/Task 1/Hello_Gru.c](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_1/Task%201/Hello_Gru.c))
+- **Solution:** [Hello_Gru.c](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_1/Task%201/Hello_Gru.c)
 ### Problem 2: Counting Down
 - **Description:** Counting down from a number provided by the user until reaching zero.
-- **Solution:** [countdown.c]([Task_1-branch/Task 1/Counting_Down.c](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_1/Task%201/Counting_Down.c))
+- **Solution:** [countdown.c](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_1/Task%201/Counting_Down.c)
 ### Problem 3: Task Manager
 - **Description:** Task Manager program that allows users to perform various operations such as adding, viewing, marking as complete, and removing tasks.
-- **Solution:** [task_manager.c]([Task_1-branch/Task 1/Task_Manager.c](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_1/Task%201/Task_Manager.c))
+- **Solution:** [task_manager.c](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_1/Task%201/Task_Manager.c)
 ### Problem 4: Kalman Missile
 - **Description:** Implement sensor fusion for two sensors using the Kalman Filter algorithm. This algorithm helps in combining data from multiple sensors to improve accuracy.
-- **Solution:** [sensor_fusion.c]([Task_1-branch/Task 1/Kalman_Missile.c](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_1/Task%201/Kalman_Missile.c))
+- **Solution:** [sensor_fusion.c](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_1/Task%201/Kalman_Missile.c)
