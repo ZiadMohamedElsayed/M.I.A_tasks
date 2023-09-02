@@ -1,7 +1,7 @@
 # M.I.A_tasks 🚀
 Welcome to the Archive of My Completed M.I.A Tasks!
 ## Overview 📋
-This repository contains a collection of tasks that I have successfully completed as part of the M.I.A program.
+This repository contains a collection of tasks that I have successfully completed as part of the M.I.A training.
 - [M.I.A\_tasks 🚀](#mia_tasks-)
   - [Overview 📋](#overview-)
 - [Task 1: C Programming Challenges 🖥️](#task-1-c-programming-challenges-️)
