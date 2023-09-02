@@ -23,6 +23,7 @@ This repository contains a collection of tasks that I have successfully complete
 - [Task 4: Python Code Challenges](#task-4-python-code-challenges)
     - [problem 1: Sky Clash 🌩️](#problem-1-sky-clash-️)
     - [problem 2: Shrrinkage Model 📉](#problem-2-shrrinkage-model-)
+- [Task 5: My First Linux Experience 🐧](#task-5-my-first-linux-experience-)
 
 # Task 1: C Programming Challenges 🖥️
 For my first task, I tackled four problems using the C programming language. Below are the details of each problem:
@@ -84,7 +85,7 @@ In Task 4, I used Python programming to tackle unique challenges. Here's an over
 - **Description:** Create Linear Regression Model, and train this model on the give dataset.
 - **Solution:** [Shrrinkage Model](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/tree/Task_4/Task4_2)
 
-# Task 5: My First Linux Experience
+# Task 5: My First Linux Experience 🐧
 
 In this task, I document my first experience with Linux.
 
