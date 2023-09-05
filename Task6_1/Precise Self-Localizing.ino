@@ -38,6 +38,7 @@ void Delay(unsigned long delayMs);
 
 void setup()
 {
+    // Initialize communication
     Wire.begin();
     Serial.begin(9600);
 
