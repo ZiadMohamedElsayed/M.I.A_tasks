@@ -43,7 +43,6 @@ The provided Arduino code accomplishes the following tasks:
 
 #### 3. Determine Cutoff Frequency for LPF
    - To accurately capture the encoder pulses, have a cut-off frequency at least 7 to 10 times bigger than the maximum acceptable frequency.
-   - A common choice is to set fc = 7 * fmax to ensure good signal fidelity.
    - fc ≈ 7 * 214.86 Hz ≈ 1.504 kHz.
   
 ## Conclusion
