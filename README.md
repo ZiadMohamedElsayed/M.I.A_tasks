@@ -24,6 +24,10 @@ This repository contains a collection of tasks that I have successfully complete
     - [problem 1: Sky Clash 🌩️](#problem-1-sky-clash-️)
     - [problem 2: Shrrinkage Model 📉](#problem-2-shrrinkage-model-)
 - [Task 5: My First Linux Experience 🐧](#task-5-my-first-linux-experience-)
+- [Task 6: Handling sensors 🔍](#task-6-handling-sensors-)
+    - [problem 1: Precise Self-Localizing 🧭](#problem-1-precise-self-localizing-)
+    - [problem 2: Every Step Matter 🏃](#problem-2-every-step-matter-)
+    - [problem 3: Route Optimization 🗺️](#problem-3-route-optimization-️)
 
 # Task 1: C Programming Challenges 🖥️
 For my first task, I tackled four problems using the C programming language. Below are the details of each problem:
@@ -70,8 +74,7 @@ In Task 3, I had to solve problems with arduino code. Here are the details of ea
 - **Description:** Write an Arduino code, to localize the position of the cookie bot on a 5m x 6m champer.
 - **Solution:** [Cookiebot_localization.ino](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_3/Task3_2/Cookiebot_localization.ino)
 #### Part 2
-- **Description:** Research about
-Simultaneous Localization and Mapping (SLAM) and how could we localize the robot without known map of the environment.
+- **Description:** Research about Simultaneous Localization and Mapping (SLAM) and how could we localize the robot without known map of the environment.
 - **Solution:** [SLAM.pdf
 ](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_3/Task3_2/SLAM.pdf)
 
@@ -90,3 +93,17 @@ In Task 4, I used Python programming to tackle unique challenges. Here's an over
 In this task, I document my first experience with Linux.
 
 You can read the full details in my Markdown file: [Linux_Experience.md](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_5/Linux_Experience.md)
+# Task 6: Handling sensors 🔍
+
+In this task, I handled IMU (MPU6050) sensor and motor encoder.
+Additionally, I tackled the subject of Path planning.
+
+### problem 1: Precise Self-Localizing 🧭
+- **Description:**  Interface with IMU sensor MPU6050, and retrieve the Yaw angle.
+- **Solution:** [Precise Self-Localizing.ino](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_6/Task6_1/Precise%20Self-Localizing.ino)
+### problem 2: Every Step Matter 🏃
+- **Description:** Interface with rotary Encoder and get the number of counts.
+- **Solution:** [Every Step Matter.ino](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_6/Task6_2/Every%20Step%20Matter.ino)
+### problem 3: Route Optimization 🗺️
+- **Description:** Article about Path planning, its challenges, and practical applications.
+- **Solution:** [Route Optimization.pdf](https://github.com/ZiadMohamedElsayed/M.I.A_tasks/blob/Task_6/Task6_3/Route%20Optimization.pdf)
