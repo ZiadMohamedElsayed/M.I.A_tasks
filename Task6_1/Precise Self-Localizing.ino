@@ -62,7 +62,7 @@ void readGyroData()
     Wire.endTransmission(false);
     Wire.requestFrom(MPU6050Address, 6, true);
 
-    while (wire.available() < 6)
+    while (Wire.available() < 6)
         ;
 
     gyroX = (Wire.read() << 8) | Wire.read();
@@ -77,12 +77,8 @@ void readGyroData()
 
 void calculateYawAngle()
 {
-    previousTime = currentTime;                        // Store previous time
-    currentTime = millis();                            // Record current time
-    elapsedTime = (currentTime - previousTime) / 1000; // Calculate time elapsed in seconds
-
     // Calculate Yaw angle change
-    float gyroYaw = (gyroZ / gyroScale) * elapsedTime;
+    float gyroYaw = gyroZ / gyroScale;
 
     // Accumulate the Yaw angle
     currentYaw += gyroYaw;
